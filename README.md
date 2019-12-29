@@ -1,0 +1,2 @@
+# django_private_diary
+djangoのサンプルコード実装用
